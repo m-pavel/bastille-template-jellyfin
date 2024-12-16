@@ -6,10 +6,10 @@ Bastille Template for Jellyfin
 
 ## Bootstrap
 ```shell
-bastille bootstrap https://gitlab.com/bastillebsd-templates/jellyfin
+bastille bootstrap https://github.com/m-pavel/jellyfin
 ```
 
 ## Usage
 ```shell
-bastille template TARGET bastillebsd-templates/jellyfin
+bastille template TARGET https://github.com/m-pavel/jellyfin
 ```
